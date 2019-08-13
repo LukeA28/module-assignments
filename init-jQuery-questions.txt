@@ -1,0 +1,16 @@
+jQuery Initial Questions:
+1. Of course it is useful to familiarize myself with all traversal and manipulation methods, 
+but are there some(ex. <div>, <body>, <a>, etc. tags in html) methods that I should start becoming 
+extra familiar with?
+
+2. If the answer to question number one is that the methods taught in the course modules will fall under 
+that category, then are there a select few out of those that will be more important?
+
+3. Are there external resources while writing jQuery scripts that help to organize exactly what will 
+happen to the affected html file under certain circumstances(like a tree of effects)?
+
+4. Will there be some scripts that contain pure javaScript from here on out or is it suggested to 
+include jQuery objects and their methods in all scripts now that the material has been covered?
+
+5. Is there a universally appreciated way of naming jQuery objects(or other components), compared to 
+vanilla-based objects, that will help distinguish the difference between the two?
